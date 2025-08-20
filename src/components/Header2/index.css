@@ -27,7 +27,7 @@ body {
 }
 .location{
     color: #B0BABF;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: bold;
     
 }
@@ -41,38 +41,39 @@ body {
 }
 .event{
     color: #B0BABF;
-    font-size: 1.4rem;
+    font-size: 1rem;
     font-weight: bold;
     
 }
 @media screen and (min-width: 1550px) and (max-width: 1770px){
 .header2-iconz{
-   font-size: 1.5rem;
+   font-size: 1.2rem;
 }
 .location{
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 .events-holder{
     height: 100%;
     width: 75%;
 }
 .event{
-   font-size: 1.5rem;
+   font-size: 1rem;
 }
 }
 @media screen and (min-width: 992px) and (max-width: 1550px){
     .header2-iconz{
-    font-size: 1.2rem;
+    font-size: 1rem;
+
 }
 .location{
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 .events-holder{
     height: 100%;
     width: 75%;
 }
 .event{
-   font-size: 1.2rem;
+   font-size: 1rem;
 }
 }
 @media  screen and (min-width: 768px) and (max-width: 992px) {
@@ -85,20 +86,21 @@ body {
     width: 100%;
     }
     .location-holder{
-    width: 28%;
+    width: 23%;
     }
     .events-holder{
     width: 100%;
     }
     .header2-iconz{
-   font-size: 1.3rem;
+   font-size: 1.2rem;
+   
 }
 .location{
-    font-size: 1.3rem;
+    font-size: 1rem;
 }
 
 .event{
-   font-size: 1.3rem;
+   font-size: 1rem;
 }
 }
 
@@ -112,7 +114,7 @@ body {
     width: 100%;
     }
     .location-holder{
-    width: 35%;
+    width: 30%;
     }
     .events-holder{
     width: 100%;
@@ -138,7 +140,7 @@ body {
     width: 100%;
     }
     .location-holder{
-    width: 45%;
+    width: 35%;
     margin-left: 0.4rem;
     }
     .events-holder{

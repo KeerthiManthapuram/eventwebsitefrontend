@@ -89,12 +89,11 @@ const UpcomingEvents = () => {
   return (
     <div className='upcoming-events-bg-container'>
       {/* Title section */}
-      <div className='upcoming-events-title-holder'>
-        <h1 className='upcomming-events-title'>
+      <h1 className='upcomming-events-title'>
           Upcomming Events 
-        </h1>
-        <i className="bi bi-arrow-right right-icon"></i>
-      </div>
+          <i className="bi bi-arrow-right right-icon"></i>
+      </h1>
+        
       {error && <div className="error-message">{error}</div>}
       {/* Scrollable container for infinite scrolling */}
       <div className='upcoming-events-scroll-container' ref={scrollRef}>

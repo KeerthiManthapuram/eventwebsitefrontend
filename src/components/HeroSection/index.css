@@ -22,59 +22,57 @@ body {
 }
 .hero-section-text{
     color: #ffffff;
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: bold;
-   
-    line-height: 4.5rem;
-    width: 70%;
+    line-height: 3rem;
+    width: 75%;
     text-align: center;
 }
 .hero-section-desc{
     color: #ffffff;
-    font-size: 1.5rem;
-    
+    font-size: 1rem;
     width: 60%;
     text-align: center;
     margin-top: 1rem;
 }
 @media  screen and (min-width: 1550px) and (max-width: 1770px) {
     .hero-section-text{
-    font-size: 3rem;
-    line-height: 4rem;
+    font-size: 1.5rem;
+    line-height: 2.4rem;
     width: 85%;
     }
     .hero-section-desc{
-    font-size: 1.5rem;
+    font-size: 1rem;
     width: 75%;
    }
 }
 @media  screen and (min-width: 992px) and (max-width: 1550px) {
     .hero-section-text{
-    font-size: 2.5rem;
-    line-height: 3.5rem;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
     width: 85%;
     }
 .hero-section-desc{
-    font-size: 1.2rem;
+    font-size: 1rem;
     width: 75%;
    }
 }
 
 @media  screen and (min-width: 768px) and (max-width: 992px) {
     .hero-section-text{
-    font-size: 2.5rem;
-    line-height: 3rem;
+    font-size: 1.3rem;
+    line-height: 2.3rem;
     width: 93%;
     }
 .hero-section-desc{
-    font-size: 1rem;
+    font-size: 0.8rem;
     width: 80%;
    }
 }
 @media  screen and (min-width: 576px) and (max-width: 768px) {
     .hero-section-text{
-    font-size: 2rem;
-    line-height: 3rem;
+    font-size: 1.2rem;
+    line-height: 2.2rem;
     width: 95%;
     }
 .hero-section-desc{
@@ -95,8 +93,8 @@ body {
 }
 @media  screen and (min-width: 250px) and (max-width: 400px) {
     .hero-section-text{
-    font-size: 1.5rem;
-    line-height: 1.8rem;
+    font-size: 1.2rem;
+    line-height: 2rem;
     width: 98%;
     }
 .hero-section-desc{

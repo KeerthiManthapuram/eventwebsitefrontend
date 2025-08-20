@@ -30,8 +30,7 @@ html, body {
 }
 
 .website-icon-signup{
-    
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: #CF2D2D;
 }
 
@@ -50,7 +49,7 @@ html, body {
 /* Signup form card */
 .signup-form-container{
   background-color:#ffffff;
-  width: 25vw;
+  width: 22vw;
   height: auto;
   border-radius: 12px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
@@ -68,25 +67,25 @@ html, body {
   margin-bottom: 1.5rem;
 }
 .signup-label-item{
-  font-size: 1.3rem;
+  font-size: 1rem;
   font-weight: bold;
   color: #1E2022;
   margin-bottom: 0.8rem;
 }
 .signup-input-element{
-  height: 3rem;
+  height: 2.5rem;
   width: 100%;
   border: 2px solid #B0BABF;
   border-radius: 0.5rem;
-  font-size: 1.3rem;
+  font-size: 1rem;
   color: #1E2022;
   padding: 5px;
 }
 .signup-submit-btn{
-  height: 3rem;
+  height: 2.5rem;
   width: 90%;
   background-color: #CF2D2D;
-  font-size: 1.3rem;
+  font-size: 1rem;
   color: #ffffff;
   font-weight: bold;
   border: none;
@@ -95,11 +94,11 @@ html, body {
   cursor: pointer;
 }
 .signup-login-text{
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #1E2022;
 }
 .signup-login-link{
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #CF2D2D;
 }
 .signup-login-link:hover{
@@ -114,14 +113,14 @@ html, body {
     padding: 1.5rem;
   }
   .website-icon-signup{
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
   .signup-container {
     height: 93vh;
     width: 100%;
   }
   .signup-form-container{
-  width: 40vw;
+  width: 35vw;
   height: auto;
   border-radius: 12px;
   padding: 1.5rem;
@@ -131,27 +130,27 @@ html, body {
   margin-bottom: 1.5rem;
 }
 .signup-label-item{
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin-bottom: 0.5rem;
 }
 .signup-input-element{
-  height: 3rem;
+  height: 2.5rem;
   width: 100%;
   border-radius: 0.4rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .signup-submit-btn{
   height: 3rem;
   width: 90%;
-  font-size: 1.5rem;
+  font-size: 1rem;
   border-radius: 0.5rem;
   margin-bottom: 1rem;
 }
 .signup-login-text{
-  font-size: 1.3rem;
+  font-size: 0.8rem;
 }
 .signup-login-link{
-  font-size: 1.3rem;
+  font-size: 0.8rem;
 }
 }
   
@@ -170,7 +169,7 @@ html, body {
   width: 100%;
 }
 .signup-form-container{
-  width: 40vw;
+  width: 35vw;
   height: auto;
   border-radius: 12px;
   padding: 1.5rem;
@@ -187,26 +186,26 @@ html, body {
   height: 2.5rem;
   width: 100%;
   border-radius: 0.4rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .signup-submit-btn{
   height: 2.5rem;
   width: 90%;
-  font-size: 1.5rem;
+  font-size: 1rem;
   border-radius: 0.5rem;
   margin-bottom: 1rem;
 }
 .signup-login-text{
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 .signup-login-link{
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 }
 
 @media screen and (min-width: 768px) and (max-width: 992px){
   .website-icon-signup{
-    font-size: 1.3rem;
+    font-size: 1rem;
   }
   .signup-form-container{
     width: 45vw;
@@ -217,35 +216,35 @@ html, body {
     margin-bottom: 1.5rem;
   }
   .signup-label-item{
-    font-size: 1.4rem;
+    font-size: 1rem;
     margin-bottom: 0.5rem;
   }
   .signup-input-element{
-    font-size: 1.4rem;
+    font-size: 1rem;
     height: 3rem;
     width: 100%;
     border-radius: 0.5rem;
   }
   .signup-submit-btn{
-    font-size: 1.4rem;
+    font-size: 1rem;
     height: 3rem;
     width: 90%;
     border-radius: 0.5rem;
   }
   .signup-login-text{
-    font-size: 1.2rem;
+    font-size: 0.8rem;
   }
   .signup-login-link{
-    font-size: 1.2rem;
+    font-size: 0.8rem;
   }
 }
 
 @media screen and (min-width: 576px) and (max-width: 768px){
   .website-icon-signup{
-    font-size: 1.3rem;
+    font-size: 1rem;
   }
   .signup-form-container{
-    width: 65vw;
+    width: 60vw;
     padding: 0.8rem;
   }
   .signup-form-field{
@@ -253,31 +252,31 @@ html, body {
     margin-bottom: 1.5rem;
   }
   .signup-label-item{
-    font-size: 1.3rem;
+    font-size: 1rem;
     margin-bottom: 0.4rem;
   }
   .signup-input-element{
-    font-size: 1.3rem;
+    font-size: 1rem;
     height: 3rem;
     border-radius: 0.4rem;
     width: 100%;
   }
   .signup-submit-btn{
-    font-size: 1.3rem;
+    font-size: 1rem;
     height: 3rem;
     width: 93%;
     border-radius: 0.4rem;
   }
   .signup-login-text{
-    font-size: 1.2rem;
+    font-size: 0.8rem;
   }
   .signup-login-link{
-    font-size: 1.2rem;
+    font-size: 0.8rem;
   }
 }
 @media screen and (min-width: 400px) and (max-width: 576px){
    .website-icon-signup{
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
   .signup-form-container{
     width: 75vw;
@@ -288,32 +287,32 @@ html, body {
     margin-bottom: 1.3rem;
   }
   .signup-label-item{
-    font-size: 1.3rem;
+    font-size: 1rem;
     margin-bottom: 0.5rem;
   }
   .signup-input-element{
-    font-size: 1.3rem;
+    font-size: 1rem;
     height: 2.5rem;
     border-radius: 0.4rem;
     width: 100%;
   }
   .signup-submit-btn{
-    font-size: 1.3rem;
+    font-size: 1rem;
     height: 2.5rem;
     border-radius: 0.4rem;
     width: 93%;
   }
   .signup-login-text{
-    font-size: 1rem;
+    font-size: 0.8rem;
     
   }
   .signup-login-link{
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 }
 @media screen and (min-width: 250px) and (max-width: 400px){
   .website-icon-signup{
-    font-size: 1.1rem;
+    font-size: 1rem;
   }
   .signup-form-container{
     width: 85vw;
@@ -324,19 +323,19 @@ html, body {
     margin-bottom: 1rem;
   }
   .signup-label-item{
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-bottom: 0.4rem;
   }
   .signup-input-element{
-    font-size: 1.2rem;
-    height: 2.5rem;
+    font-size: 1rem;
+    height: 2rem;
     border-radius: 0.4rem;
     width: 100%;
   }
   .signup-submit-btn{
-    font-size: 1.2rem;
+    font-size: 1rem;
     border-radius: 0.4rem;
-    height: 2.5rem;
+    height: 2rem;
     width: 97%;
     margin-bottom: 0.5rem;
   }

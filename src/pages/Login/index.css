@@ -31,8 +31,7 @@ html, body {
 }
 
 .website-icon{
-    
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: #CF2D2D;
 }
 
@@ -52,7 +51,7 @@ html, body {
 /* Signup form card */
 .form-container{
   background-color:#ffffff;
-  width: 25vw;
+  width: 22vw;
   height: auto;
   border-radius: 12px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
@@ -70,26 +69,26 @@ html, body {
   margin-bottom: 1.5rem;
 }
 .label-item{
-  font-size: 1.3rem;
+  font-size: 1rem;
   font-weight: bold;
   color: #1E2022;
   margin-bottom: 0.7rem;
 }
 .input-element{
-  height: 3rem;
+  height: 2.5rem;
   width: 100%;
   border: 2px solid #B0BABF;
   border-radius: 0.5rem;
-  font-size: 1.3rem;
+  font-size: 1rem;
   color: #1E2022;
   background-color: #ffffff;
   padding: 5px;
 }
 .submit-btn{
-  height: 3rem;
+  height: 2.5rem;
   width: 90%;
   background-color: #CF2D2D;
-  font-size: 1.3rem;
+  font-size: 1rem;
   color: #ffffff;
   font-weight: bold;
   border: none;
@@ -98,11 +97,11 @@ html, body {
   cursor: pointer;
 }
 .login-text{
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #1E2022;
 }
 .login-link{
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #CF2D2D;
 }
 .login-link:hover{
@@ -117,44 +116,44 @@ html, body {
     padding: 2rem;
   }
   .website-icon{
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
   .login-bg-container {
     height: 90vh;
     width: 100%;
   }
   .form-container{
-    width: 30vw;
+    width: 28vw;
     height: auto;
     border-radius: 12px;
     padding: 1rem;
   }
   .form-field{
     width: 90%;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.3rem;
   }
   .label-item{
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-bottom: 0.5rem;
   }
   .input-element{
     height: 3rem;
     width: 100%;
     border-radius: 0.4rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
   .submit-btn{
     height: 3rem;
     width: 90%;
-    font-size: 1.5rem;
+    font-size: 1rem;
     border-radius: 0.4rem;
     margin-bottom: 1rem;
   }
   .login-text{
-    font-size: 1.2rem;
+    font-size: 0.8rem;
   }
   .login-link{
-    font-size: 1.2rem;
+    font-size: 0.8rem;
   }
 }
 
@@ -167,7 +166,7 @@ html, body {
     }
 
     .website-icon{
-      font-size: 1rem;
+      font-size: 0.8rem;
     }
 
     .login-bg-container{
@@ -185,7 +184,7 @@ html, body {
       margin-bottom: 1rem;
     }
     .label-item{
-      font-size: 1.4rem;
+      font-size: 1rem;
       margin-bottom: 0.5rem;
     }
     .input-element{
@@ -193,27 +192,27 @@ html, body {
       width: 100%;
       border: 2px solid #B0BABF;
       border-radius: 0.5rem;
-      font-size: 1.3rem;
+      font-size: 1rem;
     }
     .submit-btn{
       height: 2.5rem;
       width: 90%;
-      font-size: 1.3rem;
+      font-size: 1rem;
       border-radius: 0.5rem;
       margin-top: 1rem;
       margin-bottom: 0.7rem;
     }
     .login-text{
-      font-size: 1rem;
+      font-size: 0.8rem;
     }
     .login-link{
-    font-size: 1rem;
+    font-size: 0.8rem;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 992px){
   .website-icon{
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
   .form-container{
     width: 45vw;
@@ -221,37 +220,37 @@ html, body {
   }
   .form-field{
     width: 90%;
-    margin-bottom: 1.6rem;
+    margin-bottom: 1.5rem;
   }
   .label-item{
-    font-size: 1rem;
+    font-size: 0.8rem;
     margin-bottom: 0.8rem;
   }
   .input-element{
-    font-size: 1rem;
+    font-size: 0.8rem;
     height: 2.3rem;
     width: 100%;
     border-radius: 0.5rem;
   }
   .submit-btn{
-    font-size: 1rem;
+    font-size: 0.8rem;
     height: 2.3rem;
     width: 90%;
     border-radius: 0.5rem;
     margin-bottom: 1rem;
   }
   .login-text{
-    font-size: 0.8rem;
+    font-size: 0.6rem;
   }
   .login-link{
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     
   }
 }
 
 @media screen and (min-width: 576px) and (max-width: 768px){
   .website-icon{
-    font-size: 1.3rem;
+    font-size: 1rem;
   }
   .form-container{
     width: 60vw;
@@ -259,35 +258,35 @@ html, body {
   }
   .form-field{
     width: 93%;
-    margin-bottom: 1.2rem;
+    margin-bottom: 1rem;
   }
   .label-item{
-    font-size: 1.3rem;
+    font-size: 1rem;
     margin-bottom: 0.5rem;
   }
   .input-element{
-    font-size: 1.3rem;
+    font-size: 1rem;
     height: 2.5rem;
     border-radius: 0.3rem;
     width: 100%;
   }
   .submit-btn{
-    font-size: 1.3rem;
+    font-size: 1rem;
     height: 2.5rem;
     width: 93%;
     border-radius: 0.5rem;
     margin-bottom: 0.7rem;
   }
   .login-text{
-    font-size: 1.1rem;
+    font-size: 0.8rem;
   }
   .login-link{
-    font-size: 1.1rem;
+    font-size: 0.8rem;
   }
 }
 @media screen and (min-width: 400px) and (max-width: 576px){
    .website-icon{
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
   .form-container{
     width: 75vw;
@@ -298,33 +297,33 @@ html, body {
     margin-bottom: 1rem;
   }
   .label-item{
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-bottom: 0.7rem;
   }
   .input-element{
-    font-size: 1.2rem;
+    font-size: 1rem;
     height: 2.2rem;
     border-radius: 0.3rem;
     width: 100%;
     
   }
   .submit-btn{
-    font-size: 1.2rem;
+    font-size: 1rem;
     height: 2.2rem;
     border-radius: 0.3rem;
     width: 93%;
     margin-bottom: 0.8rem;
   }
   .login-text{
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
   .login-link{
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 }
 @media screen and (min-width: 250px) and (max-width: 400px){
   .website-icon{
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
   .form-container{
     width: 85vw;
@@ -335,18 +334,18 @@ html, body {
     margin-bottom: 1rem;
   }
   .label-item{
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-bottom: 0.6rem;
   }
   .input-element{
-    font-size: 1.2rem;
+    font-size: 1rem;
     height: 2.2rem;
     border-radius: 0.3rem;
     width: 100%;
     
   }
   .submit-btn{
-    font-size: 1.2rem;
+    font-size: 1rem;
     height: 2.2rem;
     width: 97%;
     border-radius: 0.3rem;
