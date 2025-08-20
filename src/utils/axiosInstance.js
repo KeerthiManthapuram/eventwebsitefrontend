@@ -1,9 +1,10 @@
 // Import Axios library for making HTTP requests
 import axios from 'axios';
 
+const { REACT_APP_BACKEND_URL } = process.env;
 // Dynamic base URL that works for both development and production
 const API_BASE_URL = process.env.NODE_ENV === 'production' 
-  ? ''  // Vercel will handle routing
+  ? REACT_APP_BACKEND_URL  // render will handle routing
   : 'http://localhost:5500';  // Note: changed port to 5500 to match your backend
 
 // Create a custom Axios instance with a dynamic base URL
