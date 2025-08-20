@@ -173,11 +173,12 @@ html, body{
   width: 100%;
   height: auto;
   padding-left: 4rem;
-  margin-top: 35vh;
+  margin-top: 40vh;
 }
 .upcomming-events-title{
   font-size: 1.3rem;
   line-height: 2.6rem;
+  margin-top: 2rem;
 }
 .right-icon{
   font-size: 2rem;
@@ -191,11 +192,12 @@ html, body{
   width: 100%;
   height: auto;
   padding-left: 1rem;
-  margin-top: 32vh;
+  margin-top: 38vh;
 }
 .upcomming-events-title{
   font-size: 1.5rem;
   line-height: 3.2rem;
+  margin-top: 2rem;
 }
 .right-icon{
   font-size: 1.8rem;
@@ -210,11 +212,12 @@ html, body{
   width: 100%;
   height: auto;
   padding-left: 1rem;
-  margin-top: 32vh;
+  margin-top: 38vh;
 }
 .upcomming-events-title{
   font-size: 1.3rem;
   line-height: 3.5rem;
+  margin-top: 2rem;
 }
 .right-icon{
   font-size: 1.8rem;
@@ -233,6 +236,7 @@ html, body{
 .upcomming-events-title{
   font-size: 1rem;
   line-height: 2rem;
+  margin-top: 2rem;
 }
 .right-icon{
   font-size: 1rem;
