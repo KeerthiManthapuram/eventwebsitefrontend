@@ -75,15 +75,15 @@ body {
 }
 
 .recommended-event-name {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   color: #ffffff;
-  line-height: 1.5rem;
+  line-height: 1.2rem;
 }
 
 .show-data {
   font-size: 0.8rem;
   color: #B0BCBF;
-  line-height: 1.3rem;
+  line-height: 1rem;
 }
 
 /* Media queries with updated CSS variables */
@@ -108,15 +108,15 @@ body {
   }
   
   .recommended-event-name {
-    font-size: 1rem;
-    line-height: 1.6rem;
+    font-size: 0.8rem;
+    line-height: 1.3rem;
     font-family: sans-serif;
   }
   
   .show-data {
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-family: sans-serif;
-    line-height: 1.3rem;
+    line-height: 1.1rem;
   }
 }
 
@@ -142,14 +142,14 @@ body {
   
   .recommended-event-name {
     font-size: 0.8rem;
-    line-height: 1.7rem;
+    line-height: 1.4rem;
     font-family: sans-serif;
   }
   
   .show-data {
     font-size: 0.8rem;
     font-family: sans-serif;
-    line-height: 1.5rem;
+    line-height: 1.2rem;
   }
 }
 
@@ -175,14 +175,14 @@ body {
   
   .recommended-event-name {
     font-size: 0.8rem;
-    line-height: 1.6rem;
+    line-height: 1.4rem;
     font-family: sans-serif;
   }
   
   .show-data {
     font-size: 0.8rem;
     font-family: sans-serif;
-    line-height: 1.3rem;
+    line-height: 1.1rem;
   }
 }
 
@@ -208,14 +208,14 @@ body {
   
   .recommended-event-name {
     font-size: 0.8rem;
-    line-height: 1.6rem;
+    line-height: 1.3rem;
     font-family: sans-serif;
   }
   
   .show-data {
     font-size: 0.8rem;
     font-family: sans-serif;
-    line-height: 1.3rem;
+    line-height: 1.1rem;
   }
 }
 
@@ -241,14 +241,14 @@ body {
   
   .recommended-event-name {
     font-size: 0.8rem;
-    line-height: 1.6rem;
+    line-height: 1.4rem;
     font-family: sans-serif;
   }
   
   .show-data {
     font-size: 0.8rem;
     font-family: sans-serif;
-    line-height: 1.3rem;
+    line-height: 1.1rem;
   }
 }
 
@@ -274,14 +274,14 @@ body {
   
   .recommended-event-name {
     font-size: 0.8rem;
-    line-height: 1.6rem;
+    line-height: 1.3rem;
     font-family: sans-serif;
   }
   
   .show-data {
     font-size: 0.8rem;
     font-family: sans-serif;
-    line-height: 1.3rem;
+    line-height: 1.1rem;
   }
 }
 

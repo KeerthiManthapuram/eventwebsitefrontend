@@ -223,8 +223,8 @@ body {
     height: 35vh;
     width: 30vw;
     border-radius: 1rem;
-    margin-right: 0.3rem;
-    margin-bottom: 0.3rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
     padding: 1rem;
 }
 .event-image-holder{
@@ -268,8 +268,8 @@ body {
     height: 50vh;
     width: 60vw;
     border-radius: 1rem;
-    margin-bottom: 0.4rem;
     margin: auto;
+    margin-bottom: 1rem;
     padding: 0.4rem;
 }
 .event-image-holder{
@@ -310,7 +310,7 @@ body {
 @media screen and (min-width: 663px) and (max-width: 750px){
     .event-card{
         width: 50vw;
-        margin-bottom: 0.5rem;
+        margin-bottom: 1rem;
         margin: auto;
     }
 }
@@ -318,8 +318,8 @@ body {
     .event-card{
         height: 40vh;
         width: 38vw;
-        margin-right: 0.5rem;
-        margin-bottom: 0.5rem;
+        margin-right: 1rem;
+        margin-bottom: 1rem;
     }
 }
 @media screen and (min-width: 400px) and (max-width: 576px){
@@ -329,7 +329,7 @@ body {
     border-radius: 1rem;
     padding: 0.4rem;
     margin: auto;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
     
 }
 .event-image-holder{
@@ -375,7 +375,7 @@ body {
     width: 85vw;
     border-radius: 1rem;
     margin: auto;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
     padding: 0.4rem;
     
 }
