@@ -64,11 +64,12 @@ html, body{
   margin-right: 0;
 }
 .upcomming-events-title{
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: 3rem;
   color: #000000;
   font-weight: bold;
-  margin-top: 2rem;
+  margin-top: 3rem;
+  padding-left: 0;
 }
 
 
@@ -136,16 +137,10 @@ html, body{
   flex-direction: column;
   width: 100%;
   height: auto;
-  padding-left: 10rem;
+  padding-left: 6rem;
   margin-top: 39vh;
 }
-.upcoming-events-title-holder{
-  display: flex;
-  align-items: center;
-  height: 3vh;
-  width: 100%;
-  margin-top: 2rem;
-}
+
 .upcoming-events-list {
   display: flex;
   flex-direction: row;
@@ -158,6 +153,7 @@ html, body{
   line-height: 3rem;
   color: #000000;
   font-weight: bold;
+  padding-left: 0;
 }
 .right-icon{
   color: #000000;
@@ -212,7 +208,7 @@ html, body{
   width: 100%;
   height: auto;
   padding-left: 1rem;
-  margin-top: 38vh;
+  margin-top: 40vh;
 }
 .upcomming-events-title{
   font-size: 1.3rem;
@@ -231,7 +227,7 @@ html, body{
   width: 100%;
   height: auto;
   padding-left: 0.5rem;
-  margin-top: 29vh;
+  margin-top: 31vh;
 }
 .upcomming-events-title{
   font-size: 1rem;

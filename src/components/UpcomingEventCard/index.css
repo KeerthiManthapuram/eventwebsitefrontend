@@ -15,6 +15,7 @@ body {
     border-radius: 1rem;
     margin: auto;
     padding: 1rem;
+    margin-right: 1.5rem;
     margin-bottom: 1.5rem;
 }
 .event-image-holder{
@@ -87,6 +88,7 @@ body {
     border-radius: 1rem;
     margin: auto;
     padding: 0.6rem;
+    margin-right: 1.5rem;
     margin-bottom: 1.5rem;
 }
 .event-image-holder{
@@ -130,8 +132,8 @@ body {
     height: 38vh;
     width: 24vw;
     border-radius: 1rem;
-    margin: auto;
     padding: 0.4rem;
+    margin-right: 0.5rem;
     margin-bottom: 0.5rem;
 }
 .event-image-holder{
@@ -171,6 +173,8 @@ body {
     .event-card{
         height: 38vh;
         width: 25vw;
+        margin-right: 0.5rem;
+        margin-bottom: 0.5rem;
     }
 }
 @media screen and (min-width: 1110px) and (max-width: 1470px){
@@ -178,7 +182,8 @@ body {
     height: 37vh;
     width: 19vw;
     border-radius: 1rem;
-    margin: auto;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
     padding: 0.4rem;
 }
 .upcoming-event-name{
@@ -197,7 +202,8 @@ body {
     height: 35vh;
     width: 19vw;
     border-radius: 1rem;
-    margin: auto;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
     padding: 0.4rem;
 }
 }
@@ -206,7 +212,8 @@ body {
     height: 35vh;
     width: 18vw;
     border-radius: 1rem;
-    margin: auto;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
     padding: 0.4rem;
 }
 }
@@ -216,7 +223,8 @@ body {
     height: 35vh;
     width: 30vw;
     border-radius: 1rem;
-    margin: 0.2rem;
+    margin-right: 0.3rem;
+    margin-bottom: 0.3rem;
     padding: 1rem;
 }
 .event-image-holder{
@@ -260,7 +268,8 @@ body {
     height: 50vh;
     width: 60vw;
     border-radius: 1rem;
-    margin: 0.2;
+    margin-bottom: 0.4rem;
+    margin: auto;
     padding: 0.4rem;
 }
 .event-image-holder{
@@ -301,13 +310,15 @@ body {
 @media screen and (min-width: 663px) and (max-width: 750px){
     .event-card{
         width: 50vw;
+        margin-bottom: 0.5rem;
+        margin: auto;
     }
 }
 @media screen and (min-width: 770px) and (max-width: 831px){
     .event-card{
         height: 40vh;
         width: 38vw;
-        margin: auto;
+        margin-right: 0.5rem;
         margin-bottom: 0.5rem;
     }
 }
@@ -316,8 +327,9 @@ body {
     height: 50vh;
     width: 70vw;
     border-radius: 1rem;
-    margin: 0.2;
     padding: 0.4rem;
+    margin-bottom: 0.2rem;
+    margin: auto;
 }
 .event-image-holder{
     height: 75%;
@@ -361,8 +373,9 @@ body {
     height: 50vh;
     width: 85vw;
     border-radius: 1rem;
-    margin: 0.2;
+    margin-bottom: 0.2rem;
     padding: 0.4rem;
+    margin: auto;
 }
 .event-image-holder{
     height: 75%;
