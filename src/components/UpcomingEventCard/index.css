@@ -328,8 +328,9 @@ body {
     width: 70vw;
     border-radius: 1rem;
     padding: 0.4rem;
-    margin-bottom: 0.2rem;
     margin: auto;
+    margin-bottom: 0.5rem;
+    
 }
 .event-image-holder{
     height: 75%;
@@ -373,9 +374,10 @@ body {
     height: 50vh;
     width: 85vw;
     border-radius: 1rem;
-    margin-bottom: 0.2rem;
-    padding: 0.4rem;
     margin: auto;
+    margin-bottom: 0.5rem;
+    padding: 0.4rem;
+    
 }
 .event-image-holder{
     height: 75%;
@@ -411,5 +413,3 @@ body {
     line-height: 1rem;
 }
 }
-
-

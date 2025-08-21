@@ -11,8 +11,8 @@ body {
 }
 
 :root {
-  --card-width: 320px;
-  --card-gap: 60px; /* Increased gap for better visibility */
+  --card-width: 240px;
+  --card-gap: 30px; /* Increased gap for better visibility */
   --scroll-distance: calc(100vw + var(--card-width) + var(--card-gap));
   --duration: 20s; /* Faster for better visibility */
 }
@@ -20,8 +20,7 @@ body {
 
 /* Individual card styling */
 .show-card {
-  /*height: 460px;*/
-  height: 370px;
+  height: 380px;
   width: var(--card-width);
   border-radius: 8px;
   background-size: cover;
@@ -90,13 +89,12 @@ body {
 /* Media queries with updated CSS variables */
 @media screen and (min-width: 1550px) and (max-width: 1770px) {
   :root {
-    --card-width: 320px;
+    --card-width: 230px;
     --card-gap: 50px;
   }
   
   .show-card {
-    height: 450px;
-    
+    height: 350px;
   }
   
   .show-details {
@@ -124,12 +122,12 @@ body {
 
 @media screen and (min-width: 992px) and (max-width: 1550px) {
   :root {
-    --card-width: 290px;
+    --card-width: 230px;
     --card-gap: 45px;
   }
   
   .show-card {
-    height: 420px;
+    height: 370px;
   }
   
   .show-details {
@@ -157,12 +155,12 @@ body {
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
   :root {
-    --card-width: 290px;
+    --card-width: 220px;
     --card-gap: 40px;
   }
   
   .show-card {
-    height: 410px;
+    height: 360px;
   }
   
   .show-details {
@@ -190,12 +188,12 @@ body {
 
 @media screen and (min-width: 576px) and (max-width: 768px) {
   :root {
-    --card-width: 280px;
+    --card-width: 210px;
     --card-gap: 35px;
   }
   
   .show-card {
-    height: 400px;
+    height: 360px;
   }
   
   .show-details {
@@ -223,12 +221,12 @@ body {
 
 @media screen and (min-width: 400px) and (max-width: 576px) {
   :root {
-    --card-width: 280px;
+    --card-width: 220px;
     --card-gap: 30px;
   }
   
   .show-card {
-    height: 380px;
+    height: 360px;
   }
   
   .show-details {
@@ -256,12 +254,12 @@ body {
 
 @media screen and (min-width: 250px) and (max-width: 400px) {
   :root {
-    --card-width: 250px;
+    --card-width: 200px;
     --card-gap: 20px;
   }
   
   .show-card {
-    height: 350px;
+    height: 340px;
   }
   
   .show-details {
