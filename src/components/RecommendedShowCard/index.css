@@ -11,7 +11,7 @@ body {
 }
 
 :root {
-  --card-width: 240px;
+  --card-width: 280px;
   --card-gap: 30px; /* Increased gap for better visibility */
   --scroll-distance: calc(100vw + var(--card-width) + var(--card-gap));
   --duration: 20s; /* Faster for better visibility */
@@ -89,7 +89,7 @@ body {
 /* Media queries with updated CSS variables */
 @media screen and (min-width: 1550px) and (max-width: 1770px) {
   :root {
-    --card-width: 230px;
+    --card-width: 250px;
     --card-gap: 50px;
   }
   
@@ -122,7 +122,7 @@ body {
 
 @media screen and (min-width: 992px) and (max-width: 1550px) {
   :root {
-    --card-width: 230px;
+    --card-width: 270px;
     --card-gap: 45px;
   }
   
@@ -155,7 +155,7 @@ body {
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
   :root {
-    --card-width: 220px;
+    --card-width: 260px;
     --card-gap: 40px;
   }
   
@@ -188,7 +188,7 @@ body {
 
 @media screen and (min-width: 576px) and (max-width: 768px) {
   :root {
-    --card-width: 210px;
+    --card-width: 260px;
     --card-gap: 35px;
   }
   
@@ -221,7 +221,7 @@ body {
 
 @media screen and (min-width: 400px) and (max-width: 576px) {
   :root {
-    --card-width: 220px;
+    --card-width: 260px;
     --card-gap: 30px;
   }
   
@@ -254,7 +254,7 @@ body {
 
 @media screen and (min-width: 250px) and (max-width: 400px) {
   :root {
-    --card-width: 200px;
+    --card-width: 240px;
     --card-gap: 20px;
   }
   
